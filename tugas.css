@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+.profile{
+    width: 250px;
+    height: 250px;
+}
+
+.border {
+    border: 2px solid black;
+    width: 500px;
+    align-items: center;
+
+
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
